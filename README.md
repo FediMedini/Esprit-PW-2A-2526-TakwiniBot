@@ -81,9 +81,12 @@ Chaque module est connecté via des relations entre entités :
 ---
 
 ## 👥 Contributors
-- Nom Prénom (à remplir)
-- Nom Prénom
-- Nom Prénom
+- Fedi Medini
+- Oumayma Dhahri
+- Slim Hsoumi
+- Yosser Jerbi
+- Amen Ourak
+- Eya Toumi
 
 ---
 
